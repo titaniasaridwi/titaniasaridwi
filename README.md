@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there! I'm Titania Sari Dwi 👋
 
+As a recent graduate of Computer Engineering Technology, I am very interested in Infrastructure IT, Data Analyst and Graphic Design
+![tania](img/profile.png)
 <!--
 **titaniasaridwi/titaniasaridwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning bootcamp Cyber Security Engineer (IDN)
+- 🦔🦔🦔🦔
+![happy biryhday](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdrdHE4dHNlazUwOXRocTV2ODJ1OWs2ajgxNnRhMnA1ZWEzNWl4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i6RYhD8IVqXPjdmIY6/giphy.gif)
