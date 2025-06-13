@@ -47,13 +47,7 @@ Here are some ideas to get you started:
 
 ###
 
-#### <p align="left">Join the fun!</p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/titaniasaridwi/titaniasaridwi/output/snake.svg" alt="Snake animation" />
+<p align="left">Join the fun!</p>
 
 ###
 
